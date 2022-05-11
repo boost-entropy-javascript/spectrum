@@ -1,6 +1,6 @@
 version: "1"
 rules:
   - base: alpha
-    upstream: null:alpha
+    upstream: withspectrum:alpha
     mergeMethod: merge
     mergeUnstable: true
